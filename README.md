@@ -1,0 +1,1 @@
+Spotify is a project in which I analyzed trends and the most famous artists and their songs, correlations between data, visualized what influences what and how the hits change over time. During the project I mainly used the libraries pandas, matplotlib, seaborn.   
